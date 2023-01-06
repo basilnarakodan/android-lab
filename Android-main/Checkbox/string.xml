@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chk1"> Book 1</string>
+    <string name="chk2"> Book 2</string>
+    <string name="chk3"> Book 3</string>
+    <string name="display">Display</string>
+</resources>
